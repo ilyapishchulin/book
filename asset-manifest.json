@@ -1,15 +1,15 @@
 {
-  "main.css": "/book/static/css/main.8630c39e.chunk.css",
-  "main.js": "/book/static/js/main.b45f4719.chunk.js",
-  "main.js.map": "/book/static/js/main.b45f4719.chunk.js.map",
-  "runtime~main.js": "/book/static/js/runtime~main.938e06c9.js",
-  "runtime~main.js.map": "/book/static/js/runtime~main.938e06c9.js.map",
-  "static/css/2.b8fbe0c6.chunk.css": "/book/static/css/2.b8fbe0c6.chunk.css",
-  "static/js/2.0dbf1c94.chunk.js": "/book/static/js/2.0dbf1c94.chunk.js",
-  "static/js/2.0dbf1c94.chunk.js.map": "/book/static/js/2.0dbf1c94.chunk.js.map",
-  "index.html": "/book/index.html",
-  "precache-manifest.617ce7aacee9fa57d97dacd9f7e75c26.js": "/book/precache-manifest.617ce7aacee9fa57d97dacd9f7e75c26.js",
-  "service-worker.js": "/book/service-worker.js",
-  "static/css/2.b8fbe0c6.chunk.css.map": "/book/static/css/2.b8fbe0c6.chunk.css.map",
-  "static/css/main.8630c39e.chunk.css.map": "/book/static/css/main.8630c39e.chunk.css.map"
+  "main.css": "/book/for_you/static/css/main.8630c39e.chunk.css",
+  "main.js": "/book/for_you/static/js/main.2e662a4f.chunk.js",
+  "main.js.map": "/book/for_you/static/js/main.2e662a4f.chunk.js.map",
+  "runtime~main.js": "/book/for_you/static/js/runtime~main.05930cfd.js",
+  "runtime~main.js.map": "/book/for_you/static/js/runtime~main.05930cfd.js.map",
+  "static/css/2.b8fbe0c6.chunk.css": "/book/for_you/static/css/2.b8fbe0c6.chunk.css",
+  "static/js/2.0dbf1c94.chunk.js": "/book/for_you/static/js/2.0dbf1c94.chunk.js",
+  "static/js/2.0dbf1c94.chunk.js.map": "/book/for_you/static/js/2.0dbf1c94.chunk.js.map",
+  "index.html": "/book/for_you/index.html",
+  "precache-manifest.f7dbfa57f9e0dadc1c6d1d6b70fdda6b.js": "/book/for_you/precache-manifest.f7dbfa57f9e0dadc1c6d1d6b70fdda6b.js",
+  "service-worker.js": "/book/for_you/service-worker.js",
+  "static/css/2.b8fbe0c6.chunk.css.map": "/book/for_you/static/css/2.b8fbe0c6.chunk.css.map",
+  "static/css/main.8630c39e.chunk.css.map": "/book/for_you/static/css/main.8630c39e.chunk.css.map"
 }
